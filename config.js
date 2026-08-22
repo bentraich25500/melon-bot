@@ -4,7 +4,7 @@
 module.exports = {
 
     BOT_NAME: '𝐷𝑎𝑟𝑘 4𝑒𝑣𝑒𝑟',
-    BOT_TOKEN: process.env.MTU0MDgyMjU1Nzg4MjU4NTE5MA.Gc1TDr.WDsqw55hDCXlb-dAx4ZdrCRuZN2U9B_ZOry0gw,
+    BOT_TOKEN: process.env.,
     CLIENT_ID: process.env.CLIENT_ID || '1540822557882585190',
     OWNER_ID: '1536781748807934003',
 
